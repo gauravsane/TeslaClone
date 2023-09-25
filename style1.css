@@ -1,0 +1,240 @@
+.d1{
+    font-size: 10px;
+    font-weight: 500;
+    width: 100vw;
+    height: 8vh;
+    background: linear-gradient(to right, rgb(69, 69, 111),black);
+    /* background: radial-gradient(rgb(69, 69, 111)20%,black); */
+    font-family: 'M PLUS 1', sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+.logo svg{
+    color: white;
+    width: 120px;
+    height: 12px;
+    padding: 30px;
+    position: fixed;
+}
+.d1 span{
+    font-weight: bold;
+    font-size: 17px;
+}
+.d1 a{
+    color: white;
+}
+.d2{
+    width: 100vw;
+    height: 100vh;
+    background-color: transparent;
+    position: fixed;
+    overflow-y: scroll;
+}
+.b{
+    margin: 0px;
+}
+.a1{
+    color: rgb(100, 100, 100);
+    margin-left: 4px;
+    text-underline-offset: 3px;
+}
+.i1{
+    width: 150px;
+    height: 60px;
+    margin-top: 17px;
+    margin-left: 30px;
+    position: static;
+}
+.li1{
+    color: white;
+    display: inline;
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 30px;
+}
+.l1{
+    list-style: none;
+    margin-left: 490px;
+    margin-top: -0.1px;
+    padding: 20px;
+    position: fixed;
+}
+.l1 .li1{
+    font-size: 15px;
+    font-weight: 600;
+}
+.li2{
+    color: white;
+    display: inline;
+    font-family: 'M PLUS 1',sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.l2{
+    list-style: none;
+    margin-left: 1320px;
+    margin-top: -0.10px;
+    padding: 10px;
+    position: fixed;
+}
+.d3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'M PLUS 1',sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+.d4{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'M PLUS 1',sans-serif;
+    font-size: 15px;
+    margin-top: 7px;
+}
+.b1{
+    margin-top: 280px;
+    margin-left: 500px;
+    width: 265px;
+    height: 41px;
+    font-family: 'M PLUS 1',sans-serif;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border-color: white;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 5px;
+    border-width: 3px;
+    border-style: solid;
+
+}
+.b2{
+    margin-top: 280px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+    width: 265px;
+    height: 41px;
+    font-family: 'M PLUS 1',sans-serif;
+    background-color: rgb(60, 60, 60);
+    color: white;
+    border-color: rgb(60, 60, 60);
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 5px;
+    border-width: 3px;
+    border-style: solid;
+
+}
+
+.v1{
+    width: 100vw;
+    height: 92vh;
+    object-fit: cover;
+    position: fixed;
+}
+
+.blink{
+    font-size: 13px;
+    margin-left: 70px;
+    margin-top: 40px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.linkA{
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: .6px;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+section{
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-color: black;
+    margin-top: 0;
+}
+
+.M-Y{
+    color: black;
+    padding-top: 100px;
+}
+.YModel{
+    color: black;
+    font-weight: normal;
+}
+.M4{
+    color: black;
+}
+.M-X{
+   padding-top: 100px;
+   margin-top: 0;
+   color: black;
+}
+.M-S{
+    padding-top: 100px;
+    margin-top: 0;
+    color: black;
+}
+.M-panel{
+    padding-top: 100px;
+    margin-top: 0;
+    color: black;
+}
+
+.v2{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+.Acce-1{
+    margin-left: 650px;
+    margin-top: 340px;
+}
+.Acce-2{
+   padding-top: 100px;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.footer li{
+    padding-left: 30px;
+    color: rgb(214, 210, 210);
+    font-weight: bold;
+}
+
+section .content{
+    height: 100vh;
+}
+
+/* Header section */
+.li1:hover{
+    background-color: rgb(182, 182, 182);
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.li2:hover{
+    background-color: rgb(182, 182, 182);
+    padding: 1px;
+    border-radius: 5px; 
+}
